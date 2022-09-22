@@ -1,0 +1,8 @@
+Stash
+Commit
+	Github only pushes files that are commit
+
+First 
+	->Stash
+		-Commit
+			->Pushes commit status to repo
